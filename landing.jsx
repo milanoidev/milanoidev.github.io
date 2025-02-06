@@ -6,7 +6,7 @@ const PortfolioLandingPage = () => {
     <div className="max-w-6xl mx-auto px-6 py-8">
       {/* Navigation */}
       <nav className="flex justify-between items-center mb-16">
-        <div className="text-2xl font-bold">Matteo Fabbiani</div>
+        <div className="text-2xl font-bold">Sonia Milanoi</div>
         <div className="flex items-center space-x-6">
           <a href="#" className="text-gray-600 hover:text-black">Home</a>
           <a href="#" className="text-gray-600 hover:text-black">Portfolio</a>
@@ -31,12 +31,12 @@ const PortfolioLandingPage = () => {
             <span className="text-xl">Hey there,</span>
           </div>
           <h1 className="text-6xl font-bold mb-4">
-            It's Matteo Fabbiani.
+            It's Sonia Milanoi.
           </h1>
-          <p className="text-xl text-gray-600 mb-8">
-            Welcome to my creative corner. I'm a Webflow Designer & Developer 
-            with extensive experience crafting digital experiences that are both 
-            visually stunning and user-friendly.
+          <p I'm a software developer with 5+ years of coding, creating, and innovating across industries, 
+            I thrive at the intersection of technology and impact. From fintech to healthcare, e-commerce 
+            to SaaS, I've built systems that power businesses and delight users. Today, I'm diving deep 
+            into the future of tech: AI-driven solutions and secure, efficient DevOps pipelines.
           </p>
           
           {/* CTA Buttons */}
@@ -83,10 +83,16 @@ const PortfolioLandingPage = () => {
       <div className="mt-16 bg-gray-50 p-8 rounded-lg">
         <h2 className="text-3xl font-bold mb-4">Digital Experiences with Passion</h2>
         <p className="text-gray-600">
-          Ever since I was young, I've been fascinated by the intersection of design and technology. 
-          This passion drives me to create meaningful digital experiences that not only look great 
-          but also solve real-world problems.
-        </p>
+       **What I Do:**  
+**🛠 Software Development**  
+Full-stack expertise with a knack for clean code. I architect and deliver web apps, APIs, and microservices that scale with your ambitions.  
+
+**🤖 AI & Machine Learning**  
+Exploring intelligent automation, NLP, and predictive models to solve real-world challenges. Think smarter workflows, data-driven insights, and systems that learn.  
+
+**🔒 DevSecOps**  
+Building bridges between development and security. CI/CD pipelines, cloud infrastructure, and robust monitoring—*because speed shouldn’t compromise safety*.
+          </p>
       </div>
     </div>
   );
