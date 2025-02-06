@@ -9,9 +9,9 @@ const PortfolioLandingPage = () => {
         <div className="text-2xl font-bold">Matteo Fabbiani</div>
         <div className="flex items-center space-x-6">
           <a href="#" className="text-gray-600 hover:text-black">Home</a>
+          <a href="#" className="text-gray-600 hover:text-black">Portfolio</a>
+          <a href="#" className="text-gray-600 hover:text-black">Blog</a>
           <a href="#" className="text-gray-600 hover:text-black">About</a>
-          <a href="#" className="text-gray-600 hover:text-black">Works</a>
-          <a href="#" className="text-gray-600 hover:text-black">Services</a>
           <a href="#" className="text-gray-600 hover:text-black">Contact</a>
           <a 
             href="#" 
